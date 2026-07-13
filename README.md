@@ -13,7 +13,7 @@
 <td width="50%" valign="top">
 <div align="center">
 <h3>👋 About Me</h3>
-<img src="https://media.giphy.com/media/L1R1TVI9svkQQ/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 10px;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 10px;" />
 <br/><br/>
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=350&lines=Linux+Enthusiast;Python+Developer;Security+Researcher;Always+Learning" alt="Typing SVG" />
