@@ -95,7 +95,7 @@ Scheduling Tool
 
 <div align="center">
 <h3>🐍 Contribution Snake</h3>
-<img src="https://raw.githubusercontent.com/gigaverse09/gigaverse09/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
+<img src="https://raw.githubusercontent.com/gigaverse09/gigaverse09/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="100%" />
 </div>
 
 <div align="center">
